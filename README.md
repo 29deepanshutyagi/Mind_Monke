@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/icon.jpg" width= 150px height= 150px>
+  <img src="img/icon.jpg" width= 200px height= 200px>
 </p>
 <h1 align="center"> Mind Monke </h1>
 <h3 align="center"> “Feeling like a Monke lately?
@@ -16,8 +16,8 @@ Attain your state of Zen and Inner Peace through Mind Monke.”
 ## About The Project ⭐
 <p>10% of the population is said to suffer from mental health struggle. 
 
-Zen Monke aims to fight the stigma against the topic and provide quick and simple resources to cope with life’s highs and lows.
-  Checkout the submission here on  Devpost - <a href="https://devpost.com/software/zen-monke">Zen Monke</a>
+Mind Monke aims to fight the stigma against the topic and provide quick and simple resources to cope with life’s highs and lows.
+ 
 </p>
 
 ## Tech Stack
@@ -40,7 +40,7 @@ To get a local copy up and running follow the simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/suraj-singh127/Zen-Monke-Master
+   git clone https://github.com/29deepanshutyagi/Mind_Monke
    ```
  ## Have a Look  
    
@@ -58,10 +58,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Collaborators
 
-This project is prepared by the team Zen Monke in the Hack This Fall 2.0 hackathon.
-Team Members
-1. <a href="https://github.com/suraj-singh127">Suraj</a>
-2. <a href="https://github.com/ahleena">Alina</a>
+
+ <a href="https://github.com/29deepanshutyagi">Deepanshu Tyagi</a>
+
 
 ## More
 

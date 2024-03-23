@@ -30,7 +30,7 @@ Mind Monke aims to fight the stigma against the topic and provide quick and simp
 - Add more fun ways to relax. <br/>
 <p>It's all upto your creativity. Feel free to create issues and contribute to this repository.</p>
 
-<h1 align="center"> This is our submission for Hack This Fall 2.0 </h1>
+
 
 ## Here The Contribution Begins🤩🎉
 

@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="img/icon.png" width= 150px height= 150px>
+  <img src="img/icon.jpg" width= 150px height= 150px>
 </p>
-<h1 align="center"> Zen Monke </h1>
+<h1 align="center"> Mind Monke </h1>
 <h3 align="center"> “Feeling like a Monke lately?
-Attain your state of Zen and Inner Peace through Zen Monke.”
+Attain your state of Zen and Inner Peace through Mind Monke.”
  </h3>
 <p align="center">
-    <a href="https://github.com/suraj-singh127/Zen-Monke-Master"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/29deepanshutyagi/MindMonke"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://zen-monke.netlify.app/">View Demo</a>
